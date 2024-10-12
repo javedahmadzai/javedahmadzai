@@ -42,8 +42,8 @@
 <a href="https://t.me/NasratullahShafiq" target="blank">
 <img align="center" src="https://img.icons8.com/fluency/48/null/telegram-app.png" alt="nasratullah-shafiq" /></a>
  
-<a href="https://api.whatsapp.com/send/?phone=0776849466&text&type=phone_number&app_absent=0" target="blank">
-  <img align="center" src="https://img.icons8.com/fluency/48/null/whatsapp.png" alt="nasratullah-shafiq" /></a>
+<a href="https://api.whatsapp.com/send/?phone=0771275892&text&type=phone_number&app_absent=0" target="new">
+  <img align="center" src="https://img.icons8.com/fluency/48/null/whatsapp.png" alt="Javed Ahmad" /></a>
 </p>
 
 
