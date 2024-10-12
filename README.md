@@ -33,8 +33,8 @@
 <a href="https://x.com/NasratShafiq" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nasratullah-shafiq" height="30" width="40" /></a>
   
-  <a href="https://www.instagram.com/nasratullah_sh" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nasratullah-shafiq" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/javed_ahmadzia" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="javed ahmadzia" height="30" width="40" /></a>
   
 <a href="https://www.facebook.com/mjaved.iqbal.182?mibextid=LQQJ4d" target="blank">
 <img align="center" src="https://img.icons8.com/fluency/48/null/facebook-new.png" alt="Javed Ahmad" /></a>
