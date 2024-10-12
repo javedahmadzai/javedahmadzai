@@ -34,7 +34,7 @@
 <a href="https://www.facebook.com/mjaved.iqbal.182?mibextid=LQQJ4d" target="blank">
 <img align="center" src="https://img.icons8.com/fluency/48/null/facebook-new.png" alt="Javed Ahmad" /></a>
 <a href="https://t.me/JavedAhmadzia" target="_blank">
-<img align="center" src="https://img.icons8.com/fluency/48/null/telegram-app.png" alt="Javed Ahmad Twitter" /></a>
+<img align="center" src="https://img.icons8.com/fluency/48/null/telegram-app.png" alt="Javed Ahmad telegram" /></a>
  
 <a href="https://api.whatsapp.com/send/?phone=0093771275892&text&type=phone_number&app_absent=0" target="new">
   <img align="center" src="https://img.icons8.com/fluency/48/null/whatsapp.png" alt="Javed Ahmad" /></a>
