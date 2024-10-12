@@ -9,8 +9,8 @@
 🔭 I’m currently working on https://github.com/javedahmadzai/egp_hr_org_structure.git<br>
 👀 I’m interested in growing as a Senior Software Engineer.<br>
 🌱 I’m currently learning the MERN Stack.<br>
-💬 Ask me about PHP , Laravel, Python Django, Odoo, ERP, React JS, Node JS, Next JS<br>
-📫 You can contact me at nasratullah.shafiq@gmail.com<br>
+💬 Ask me about Oracle, Oracle APEX, Oracle Form Builder, PHP , Laravel, Python, Odoo, ERP, React JS, Node JS<br>
+📫 You can contact me at javid.ahmadzai1122@gmail.com<br>
 💞️ I’m looking to collaborate on ...<br>
 ⚡ Fun fact: I am a passionate full-stack developer.<br>
 
@@ -36,13 +36,13 @@
   <a href="https://www.instagram.com/nasratullah_sh" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nasratullah-shafiq" height="30" width="40" /></a>
   
-<a href="https://www.facebook.com/nasratullah.shafiq.7" target="blank">
-<img align="center" src="https://img.icons8.com/fluency/48/null/facebook-new.png" alt="nasratullah-shafiq" /></a>
+<a href="https://www.facebook.com/mjaved.iqbal.182?mibextid=LQQJ4d" target="blank">
+<img align="center" src="https://img.icons8.com/fluency/48/null/facebook-new.png" alt="Javed Ahmad" /></a>
 
 <a href="https://t.me/NasratullahShafiq" target="blank">
 <img align="center" src="https://img.icons8.com/fluency/48/null/telegram-app.png" alt="nasratullah-shafiq" /></a>
  
-<a href="https://api.whatsapp.com/send/?phone=0771275892&text&type=phone_number&app_absent=0" target="blank">
+<a href="https://api.whatsapp.com/send/?phone=0776849466&text&type=phone_number&app_absent=0" target="blank">
   <img align="center" src="https://img.icons8.com/fluency/48/null/whatsapp.png" alt="nasratullah-shafiq" /></a>
 </p>
 
