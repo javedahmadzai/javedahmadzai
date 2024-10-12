@@ -92,10 +92,18 @@
 <img src="https://avatars.githubusercontent.com/u/73666563?v=4" width=40 height=40></a>                                                                                                                               <a href="https://apex.oracle.com/en/" target="_blank" rel="noreferrer"> 
 <img src="" alt="Oracle APEX" width="40" height="40"> </a>            
 </p>
-# 📊 GitHub Stats:
+<!-- # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=javedahmadzai&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=javedahmadzai&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=javedahmadzai&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=javedahmadzai&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact) -->
+
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Nasratullah-Shafiq&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Nasratullah-Shafiq&theme=radical&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nasratullah-Shafiq&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=javedahmadzai&theme=radical&no-frame=true&no-bg=false&margin-w=4)
