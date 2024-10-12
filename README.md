@@ -41,11 +41,13 @@
 </p>
 # 💻 Tech Stack:
 <p align="left"> 
-<a href="https://www.php.net" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"> </a>
 <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40"> </a>
 <a href="https://apex.oracle.com/en/" target="_blank" rel="noreferrer"> 
+<img src="" alt="Oracle APEX" width="40" height="40"> </a>
+<a href="https://www.php.net" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"> </a>
+<a href="" target="_blank" rel="noreferrer"> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain.svg" alt="Android" width="40" height="40"> </a>
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" alt="laravel" width="40" height="40"/> </a> 
