@@ -27,7 +27,7 @@
 <a href="https://gitlab.com/Nasratullah_Shafiq" target="blank">
   <img align="center" src="https://img.icons8.com/color/2x/gitlab.png" alt="nasratullah-shafiq" height="30" width="40"/></a>
 
-<a href="https://nasratullah.shafiq@gmail.com" target="blank">
+<a href="https://javid.ahmadzai1122@gmail.com" target="blank">
   <img align="center" src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-gmail-icon-download-png-and-vector-1.png" alt="nasratullah-shafiq" height="30" width="40" /></a>
 
 <a href="https://x.com/NasratShafiq" target="blank">
@@ -39,10 +39,10 @@
 <a href="https://www.facebook.com/mjaved.iqbal.182?mibextid=LQQJ4d" target="blank">
 <img align="center" src="https://img.icons8.com/fluency/48/null/facebook-new.png" alt="Javed Ahmad" /></a>
 
-<a href="https://t.me/NasratullahShafiq" target="blank">
+<a href="https://t.me/JavedAhmadzia" target="blank">
 <img align="center" src="https://img.icons8.com/fluency/48/null/telegram-app.png" alt="nasratullah-shafiq" /></a>
  
-<a href="https://api.whatsapp.com/send/?phone=0771275892&text&type=phone_number&app_absent=0" target="new">
+<a href="https://api.whatsapp.com/send/?phone=0093771275892&text&type=phone_number&app_absent=0" target="new">
   <img align="center" src="https://img.icons8.com/fluency/48/null/whatsapp.png" alt="Javed Ahmad" /></a>
 </p>
 
