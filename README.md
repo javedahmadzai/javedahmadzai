@@ -9,13 +9,13 @@
 👀 I’m interested in growing as a Senior Software Engineer.<br>
 🌱 I’m currently learning the MERN Stack.<br>
 💬 Ask me about Oracle, Oracle APEX, Oracle Form Builder, PHP , Laravel, Python, Odoo, ERP, React JS, Node JS<br>
-📫 You can contact me at javid.ahmadzai1122@gmail.com<br>
+📫 You can contact me at javid.ahmadzai1122@gmail.com or via WhatsApp +93776849466<br>
 💞️ I’m looking to collaborate on ...<br>
 ⚡ Fun fact: I am a passionate full-stack developer.<br>
 ## 🌐 Socials:
 <p align="left">
-<a href="https://www.linkedin.com/in/nasratullah-shafiq-3aaba1141/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Nasratullah-Shafiq" height="30" width="40" /></a>
+<a href="" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Javed Ahmadzai LikndIn" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/8672438/nasratullah-shafiq" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/20743503/javed-ahmadzai" height="30" width="40" /></a>
 <a href="" target="blank">
@@ -24,11 +24,11 @@
   <img align="center" src="https://img.icons8.com/color/2x/gitlab.png" alt="nasratullah-shafiq" height="30" width="40"/></a>
 <a href="https://javid.ahmadzai1122@gmail.com" target="blank">
   <img align="center" src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-gmail-icon-download-png-and-vector-1.png" alt="nasratullah-shafiq" height="30" width="40" /></a>
-<a href="https://x.com/NasratShafiq" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nasratullah-shafiq" height="30" width="40" /></a>
+<a href="https://x.com/JavedAhmadzia" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="JavedAhmadzia Twitter" height="30" width="40" /></a>
   
   <a href="https://www.instagram.com/javed_ahmadzia" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="javed ahmadzia" height="30" width="40" /></a>
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="javed_ahmadzia Instagram" height="30" width="40" /></a>
   
 <a href="https://www.facebook.com/mjaved.iqbal.182?mibextid=LQQJ4d" target="blank">
 <img align="center" src="https://img.icons8.com/fluency/48/null/facebook-new.png" alt="Javed Ahmad" /></a>
