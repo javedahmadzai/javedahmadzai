@@ -43,8 +43,6 @@
 <p align="left"> 
 <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40"> </a>
-<a href="https://apex.oracle.com/en/" target="_blank" rel="noreferrer"> 
-<img src="" alt="Oracle APEX" width="40" height="40"> </a>
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"> </a>
 <a href="" target="_blank" rel="noreferrer"> 
@@ -91,7 +89,8 @@
 <a href="https://nextjs.org" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/> </a> 
 <a href="https://laravel-livewire.com/" target="_blank" rel="noreferrer">                                                                                        
-<img src="https://avatars.githubusercontent.com/u/73666563?v=4" width=40 height=40></a>                                                                                                                                               
+<img src="https://avatars.githubusercontent.com/u/73666563?v=4" width=40 height=40></a>                                                                                                                               <a href="https://apex.oracle.com/en/" target="_blank" rel="noreferrer"> 
+<img src="" alt="Oracle APEX" width="40" height="40"> </a>            
 </p>
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=javedahmadzai&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br/>
