@@ -1,12 +1,12 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Nasratullah+Shafiq...;A+Full-Stack+developer;Nice+to+meet+you!&center=true&size=30&color=fe428e">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Javed Ahmadzai...;A+Full-Stack+developer;Nice+to+meet+you!&center=true&size=30&color=fe428e">
   </a>
 </h1>
 
 # 💫 About Me:
-💡 I’m Nasratullah Shafiq, a Software Engineer.<br>
-🔭 I’m currently working on https://github.com/Nasratullah-Shafiq/HRMS-Project<br>
+💡 I’m Javed Ahmadzai, a Software Engineer.<br>
+🔭 I’m currently working on https://github.com/javedahmadzai/egp_hr_org_structure.git<br>
 👀 I’m interested in growing as a Senior Software Engineer.<br>
 🌱 I’m currently learning the MERN Stack.<br>
 💬 Ask me about PHP , Laravel, Python Django, Odoo, ERP, React JS, Node JS, Next JS<br>
