@@ -15,7 +15,7 @@
 ⚡ Fun fact: I am a passionate full-stack developer.<br>
 ## 🌐 Socials:
 <p align="left">
-<a href="" target="blank">
+<a href="www.linkedin.com/in/javed-ahmadzai-05a585339" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Javed Ahmadzai LikndIn" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/20743503/javed-ahmadzai" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Javed Ahmadzai Stack-overflow" height="30" width="40" /></a>
